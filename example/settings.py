@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',  # Restful framework library
     'guardian',    # object level permission support
-    'first01.apps.First01Config',
+    'snippets.apps.SnippetsConfig',
 ]
 
 MIDDLEWARE = [
